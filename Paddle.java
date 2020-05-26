@@ -61,5 +61,10 @@ public class Paddle extends JComponent implements Updatable
 		
 	}
 	
+	public void kill()
+	{
+		
+	}
+	
 	
 }

@@ -67,4 +67,9 @@ public class Ball extends JComponent implements Updatable
 		this.setLocation(this.getX()  + dx, this.getY());
 	}
 
+	public void kill() 
+	{
+		
+	}
+
 }
